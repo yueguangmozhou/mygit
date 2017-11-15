@@ -65,6 +65,7 @@ const gen = function* () {
   
 };
 
+```
 
 写成async函数，就是下面这样。
 
