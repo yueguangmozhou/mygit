@@ -1,6 +1,6 @@
 # mygit 
 
-$ async 函数
+& async 函数
  
 ^^?.含义 
 
