@@ -34,8 +34,8 @@ async 函数是什么？一句话，它就是 Generator 函数的语法糖。
 
 前文有一个 Generator 函数，依次读取两个文件。
 
-
-    const fs = require('fs');
+  ```javascript
+    const fs = require('fs');
 
     const readFile = function (fileName){
  
