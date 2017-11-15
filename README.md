@@ -15,6 +15,9 @@ async 函数
 ##### 五级标题
 ES2017 标准引入了 async 函数，使得异步操作变得更加方便。
 
+高亮文字 `fetch()` 
+
+[文字超链接](http://blog.csdn.net/guodongxiaren)  
 
 
 async 函数是什么？一句话，它就是 Generator 函数的语法糖。
